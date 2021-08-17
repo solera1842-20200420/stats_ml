@@ -1,0 +1,4 @@
+wheel
+tensorflow == 2.5.1
+tensorflow_decision_forests
+pandas
